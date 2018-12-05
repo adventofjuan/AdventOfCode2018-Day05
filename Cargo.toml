@@ -5,3 +5,4 @@ authors = ["Bastian Koppelmann <kbastian@mail.uni-paderborn.de>"]
 edition = "2018"
 
 [dependencies]
+char-iter = "0.1.0"
